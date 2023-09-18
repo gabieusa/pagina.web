@@ -8,7 +8,7 @@ Projeto para desenvolvimento Web
 
 Link: https://github.com/gabieusa/pagina.web.git
 
-### Barbearia GGR
+### Barbearia Gabi
 
 <img src="https://github.com/gabieusa/pagina.web.git/blob/master/logo.png"  width="300" height="200"/>
 
