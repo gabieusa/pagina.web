@@ -10,7 +10,7 @@ Link: https://gabieusa.github.io/pagina.web/
 
 ### Barbearia Gabi
 
-<img src="https://github.com/gabieusa/pagina.web/blob/master/logo.png"  width="300" height="200"/>
+<img src="https://github.com/gabieusa/pagina.web/blob/master/imageslogo.png"  width="300" height="200"/>
 
 
 <div>
