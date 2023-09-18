@@ -6,7 +6,7 @@ Projeto para desenvolvimento Web
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Site+Barbearia+Gabi" /></a>
 </p>
 
-Link: https://github.com/gabieusa/pagina.web
+Link: https://gabieusa.github.io/pagina.web/
 
 ### Barbearia Gabi
 
